@@ -1,5 +1,7 @@
-# Day-1
+# Day-2
 
 Building User Interface
 
-- Splash Screen
+- Player Page
+- Game Page
+- Extract data from Player Page to Game Page
